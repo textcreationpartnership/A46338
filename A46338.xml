@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Judah betrayed, or, The Egyptian plot turn'd on the Israelites a poem.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46338</idno><idno type="EEBO-CITATION">11333052</idno>
+  <idno type="VID">47489</idno>
+  <idno type="EEBO-PROQUEST">2240866774</idno>
+  
+            <idno type="STC">Wing J1165</idno>
+            <idno type="STC">ESTC R30477</idno>
+            <idno type="OCLC">11333052</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47489)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1465:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Judah betrayed, or, The Egyptian plot turn'd on the Israelites a poem.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Witty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on the times.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47489:1"/>
+            <pb facs="tcp:47489:1"/>
+            <p>
+               <hi>Iudah Betrayed:</hi> OR, The Egyptian Plot Turn'd on the ISRAELITES. A POEM.</p>
+            <q>
+               <l>— Probus quis</l>
+               <l>Nobis cum Vivit? —</l>
+               <bibl>Hor. sat. lib. 1. sat. 3.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Witty.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:47489:2"/>
+            <pb n="1" facs="tcp:47489:2"/>
+            <head>
+               <hi>JƲDAH BETRAY'D,</hi> OR, The <hi>EGYPTIAN Plot</hi> turn'd on the <hi>ISRAELITES,</hi> &amp;c.</head>
+            <lg>
+               <l>
+                  <hi>JUdah</hi> long time from toilsom War did cease,</l>
+               <l>Her civil Broils were turned into Peace;</l>
+               <l>Plots are no more; Rebellion disappears</l>
+               <l>Above the space of twenty rowling years;</l>
+               <l>All people Joyning in their Kings Defence,</l>
+               <l>Do with one voice Salute their glorious Prince,</l>
+               <l>No heap'd up Piles of Discord flame and burn,</l>
+               <l>Now <hi>Saul</hi> is doom'd to his eternal Urn;</l>
+               <l>Cities with Flames do not Salute the Skie,</l>
+               <l>Nor <hi>Judahs</hi> Towns beneath their ruines lie?</l>
+               <l>Immortal Concord rules the happy day,</l>
+               <l>No Cloudy Jarrs obscure its peaceful Ray;</l>
+               <l>Sluggish we grovv, when Benefits are given,</l>
+               <l>And Thankless stand until we anger Heaven,</l>
+               <l>Never before cou'd Christian Altars boast</l>
+               <l>Of such rich Incense with so little cost;</l>
+               <l>Never before bright Truth so firm did stand,</l>
+               <l>And Piety abound in <hi>Judahs</hi> Land;</l>
+               <pb n="2" facs="tcp:47489:3"/>
+               <l>Pamper'd with Blessings and with Mercy full</l>
+               <l>We soon grow Impudent, Debauch't and dull;</l>
+               <l>Now Heaven do's rage, and Earth must feel its Ire,</l>
+               <l>Shook by its Bolts, Scorcht by its forked Fire;</l>
+               <l>Our Trophies Fade and leave us in Distress,</l>
+               <l>Our <hi>Tempe</hi>'s turn'd into a Wilderness;</l>
+               <l>
+                  <hi>Egyptians</hi> Plot against the Church and State,</l>
+               <l>
+                  <hi>Israel</hi> must fall by their relentless hate,</l>
+               <l>
+                  <hi>David</hi> must die, and all our Rights must down,</l>
+               <l>While Fate can scarce support the falling Crown:</l>
+               <l>The Wretched Subjects in their blood must roul,</l>
+               <l>And lay the Body down to save the Soul;</l>
+               <l>All our true Heroes from the Court must fly,</l>
+               <l>And Strangl'd <hi>Amnon</hi> must a Martyr Die;</l>
+               <l>While they their Factious dark designs promote,</l>
+               <l>Who e're looks on shall have his Eyes put out;</l>
+               <l>And every Noble <hi>Patriot</hi> to ensnare</l>
+               <l>They'l dive to Hell and seek Inventions there</l>
+               <l>While <hi>Baal</hi> do's thus his miscreant Plotters chear.</l>
+               <l>Corrupt the Nobles, and enslave the Throne,</l>
+               <l>Poison its wearrer and the day's our own;</l>
+               <l>Steal every heart with promises of Bliss</l>
+               <l>And show an easy Path to Paradice,</l>
+               <l>With tempting Gold dazle their gazing Eyes,</l>
+               <l>And so transform to friends your Enimies,</l>
+               <l>Your Imps disguis'd into their Streets convey,</l>
+               <l>And then to fire their well built roofs betray;</l>
+               <pb n="3" facs="tcp:47489:3"/>
+               <l>Let Temples fall, while doleful passing Bells</l>
+               <l>In Tumbling Towers ring their own Farewels,</l>
+               <l>Then raise your Scaffolds where their Altars stood,</l>
+               <l>Then quench their Ruines in a pool of blood:</l>
+               <l>Snatch tender Children from their Mothers Arms,</l>
+               <l>Without regarding all their Infant Charms,</l>
+               <l>Rob 'em of Life, which Nature newly gave</l>
+               <l>And then in baleful Ashes make their Grave;</l>
+               <l>Never regard the Wretched Virgins cry,</l>
+               <l>Let helpless Youths by fatal Poniards die;</l>
+               <l>Down with their Churches &amp; set up your Shrines,</l>
+               <l>Whilst on their Altars your new <hi>Idol</hi> Shines;</l>
+               <l>Be quick in Murder, in Relenting slow,</l>
+               <l>
+                  <hi>Baal</hi> will pard'ning all your hast outgo;</l>
+               <l>For such black deeds hee'l open Heaven set,</l>
+               <l>And give a Paradice like <hi>Mahomet,</hi>
+               </l>
+               <l>Shall these designs go on by Treachery?</l>
+               <l>No, Heaven it self will the Avenger be;</l>
+               <l>See their Plot blasted in its teeming Bud,</l>
+               <l>See their Intrigues by <hi>Judah</hi> understood,</l>
+               <l>'Tis Heaven, yes Heaven, has this great wonder done▪</l>
+               <l>See how the Plotters for a Pardon run:</l>
+               <l>Some crave of <hi>Sanhedrins</hi> their Care and Aid,</l>
+               <l>But others cry, we are not yet betray'd;</l>
+               <l>Now the bold Priests retire unto their Cells,</l>
+               <l>And there consult their wondrous Oracles;</l>
+               <pb n="4" facs="tcp:47489:4"/>
+               <l>What overcome? cross Fate! it cannot be,</l>
+               <l>
+                  <hi>Rome</hi> is Infallible in her decree;</l>
+               <l>'Tis but a trick of Fate, then let's grow bold,</l>
+               <l>And only slip to take the faster hold;</l>
+               <l>Tis but the fixing the unshaken doom</l>
+               <l>'Of braver Acts and braver times to come,</l>
+               <l>Well, says the Priest, with little care and Pain,</l>
+               <l>We will once more retrieve the Game again:</l>
+               <l>We'l say 'gainst <hi>David, Judah</hi> do's Rebel</l>
+               <l>And Mutiny is rais'd in <hi>Israel,</hi>
+               </l>
+               <l>We'l say they Plot against their Lawful King</l>
+               <l>So drive good Favourites from <hi>Davids</hi> Wing</l>
+               <l>Tear from his Bosom his Beloved Son,</l>
+               <l>Heavens dearest Darling, Godlike <hi>Absalon;</hi>
+               </l>
+               <l>Take but this prize, and what can't Fortune do?</l>
+               <l>Say, Votaries, is <hi>David</hi> King or no?</l>
+               <l>'Tis true he sits upon a crazy Throne,</l>
+               <l>Crazy, because 'tis hardly half his own,</l>
+               <l>
+                  <hi>Baal</hi> says 'tis his, by an unchang'd Decree</l>
+               <l>He must the Universal Monarch be,</l>
+               <l>If Plots and Stratagems will pull it down,</l>
+               <l>Already I behold the tottering Crown,</l>
+               <l>The Warlike <hi>Absalon</hi> we've banisht far,</l>
+               <l>That Glorious Champion in great <hi>Davids</hi> War,</l>
+               <l>Whose ponderous sword such mighty feats has done,</l>
+               <l>None in the Fight so stout as <hi>Davids</hi> Son,</l>
+               <pb n="5" facs="tcp:47489:4"/>
+               <l>Yes, Votaries, the Priests of <hi>Apis</hi> say</l>
+               <l>This Heroe<hi>'s</hi> now dismist from all his Sway</l>
+               <l>Oh pleasing Fate! and oh thrice welcome day!</l>
+               <l>
+                  <hi>David</hi> and 's People now at variance be,</l>
+               <l>And both must fall by the same Destiny,</l>
+               <l>Though <hi>Baal</hi> Plots on, and all his Freinds imploys</l>
+               <l>'Tis <hi>Israel</hi> that <hi>Israel</hi> destroys;</l>
+               <l>All his Intrigues are quite and clean forgot,</l>
+               <l>So in a sham we lose the real Plot,</l>
+               <l>Now <hi>Davids</hi> Heart is from his Subjects ta'ne</l>
+               <l>In vain are crys, <hi>Petitions</hi> all are vain,</l>
+               <l>While the young Brats about the Throne do sport,</l>
+               <l>The Charming <hi>Delilah</hi> commands the Court,</l>
+               <l>Adresses, not to <hi>David</hi> now are brought,</l>
+               <l>And all the Learned Counsel comes to nought,</l>
+               <l>Are <hi>Israelites</hi> so mad, so void of sense</l>
+               <l>To stab themselves and to undo their Prince?</l>
+               <l>Will reason 'ere Posterities perswade</l>
+               <l>That we our selves, our King, our God betray'd?</l>
+               <l>Yes, yes, if Oaths of Perjur'd Rascals may</l>
+               <l>Take off all such as <hi>Apis</hi> disobey.</l>
+               <l>Look to the shoar, the <hi>Geshure</hi> Creatures Land,</l>
+               <l>And in whole Shoals infest fair <hi>Judahs</hi> Strand,</l>
+               <l>Prodigious Creatures of a monstrous Birth,</l>
+               <l>With Souls as ugly as their Native Earth,</l>
+               <pb n="6" facs="tcp:47489:5"/>
+               <l>A tract of Land, which to that People fell</l>
+               <l>Peculiar Gift of Charitable Hell,</l>
+               <l>Of Souls a <hi>Purgatory,</hi> ten times worse</l>
+               <l>Then all, that can be cramm'd into a Curse:</l>
+               <l>A Land, that's <hi>Satans</hi> Soil, whence do arise</l>
+               <l>His Children, <hi>Lyars,</hi> and their Off-spring, <hi>lies.</hi>
+               </l>
+               <l>See, how they come with Stubborn look &amp; frown,</l>
+               <l>Big with Untruths, and ready to lie down;</l>
+               <l>Empires to spoil and Cities to o'return,</l>
+               <l>What flames a Lyars Rage can cause to burn?</l>
+               <l>A Dunghil slaves undaunted Perjury</l>
+               <l>Usurpeth Power to make a Noble die;</l>
+               <l>These are the Tools by which the States-men sway</l>
+               <l>But who're the greatest Rogues themselves or they?</l>
+               <l>Heither they do invite 'um to resort,</l>
+               <l>And give 'um Pensions to observe the Court?</l>
+               <l>So ruin'd Kings from Pallaces do fall,</l>
+               <l>Struck by those Creatures, that they made so Tall.</l>
+            </lg>
+            <lg>
+               <l>First (bashful Muse) <hi>Achitophel</hi> bring forth,</l>
+               <l>Heavens, could I paint him to his greatest worth!</l>
+               <l>Paint him with Pencils dipt in reaking Gore,</l>
+               <l>In sable field, black as the <hi>Stygian</hi> Shoar</l>
+               <l>Holding the Train of the <hi>Egyptian Whore.</hi>
+               </l>
+               <l>Paint him in's Closset wracking of his Brain,</l>
+               <l>About some Princes fall, and others Reign.</l>
+               <pb n="7" facs="tcp:47489:5"/>
+               <l>Grown mad by Envy and blown up with Hate,</l>
+               <l>He cannot stand but on a falling State.</l>
+               <l>He says he's Loyal, and does strut among</l>
+               <l>The gazing troops of the admiring Throng,</l>
+               <l>Though all men count <hi>Egyptian Loyalty</hi>
+               </l>
+               <l>As false as Church Infallibility;</l>
+               <l>He loves not <hi>David</hi> cause he's Lawful King,</l>
+               <l>But for the grateful refuge of his wing;</l>
+               <l>Grant him but this, his Loyaltie's all one,</l>
+               <l>Should <hi>Satan</hi> once usurp and mount a Throne;</l>
+               <l>Sure soon may he from Loyalty be driven,</l>
+               <l>That always was a Rebel against Heaven;</l>
+               <l>What Aiery Titles then do Monarchs bear,</l>
+               <l>Doom'd to be great and to Eternal Care?</l>
+               <l>Like our good <hi>David</hi> blest with Nobler Souls</l>
+               <l>Then Warlike Heroes Register Enrouls,</l>
+               <l>Magnificently build a Royal Throne,</l>
+               <l>Yet plagu'd with Favourites, that pull it down;</l>
+               <l>From groveling Fate raise abject Slaves on high,</l>
+               <l>Who <hi>once grown great,</hi> can't <hi>thrive,</hi> but <hi>Kings must die;</hi>
+               </l>
+               <pb n="8" facs="tcp:47489:6"/>
+               <l>Drawn by Ambition on Prides Pinions rise</l>
+               <l>Spurning the earth do tilt unto the Skies,</l>
+               <l>Disowning even that hand that made them great,</l>
+               <l>Do make it the sad Object of their Hate;</l>
+               <l>
+                  <hi>Achitophel</hi> is fixt on Fortune strong,</l>
+               <l>And only grieves that <hi>David</hi> lives too long;</l>
+               <l>He envies even his good by Destinies,</l>
+               <l>And blames the course of the propitious Skies;</l>
+               <l>Curse on that Planet, whose benign Ray</l>
+               <l>Gilds the bright Pavement of the <hi>Milky-way,</hi>
+               </l>
+               <l>And is so good, so Influential</l>
+               <l>To the great Master of the <hi>Milky Hall!</hi>
+               </l>
+               <l>Curse on all Fates! nay curst be all the things</l>
+               <l>That do continue Life to gasping Kings!</l>
+               <l>Thus does he curse and thus does Fortune blame,</l>
+               <l>'Cause <hi>David</hi> Lives and spoils <hi>Egyptian</hi> Game;</l>
+               <l>Knowing the Absence of his gratious Sight</l>
+               <l>Would turn our <hi>Goshen</hi> to Egyptian night:</l>
+               <l>Then, then might <hi>Baal</hi> for the Succession try,</l>
+               <l>And Crown an Heir without a Reason why;</l>
+               <pb n="9" facs="tcp:47489:6"/>
+               <l>And then <hi>Achitophel</hi> to keep his Fame,</l>
+               <l>In Boundless Power should be still the same.</l>
+               <l>Yet he tells <hi>David</hi> he may Live at ease;</l>
+               <l>Courtiers must alwayes Sooth and strive to please:</l>
+               <l>And though he does for Politician sit,</l>
+               <l>Nature nere destyn'd him to be a Wit,</l>
+               <l>And that he should have sence, how cam't to pass!</l>
+               <l>Never was Biggot yet but was an Ass.</l>
+               <l>Sprung like some Mushroom up, a rampant Knave</l>
+               <l>May to the uulgar seem August and Brave,</l>
+               <l>But all the men of sence will praise as soon</l>
+               <l>The base Pedantick Fop, or Court-Buffoon.</l>
+            </lg>
+            <lg>
+               <l>Next <hi>Shimei</hi> introduce into the Hall;</l>
+               <l>Would I could roar as loud as he can bawl:</l>
+               <l>Stretching his Chaps and Brandishing his Paw,</l>
+               <l>Paint him the gaping musty MOUTH of Law;</l>
+               <l>See how he lifts his head and looks about,</l>
+               <l>And rallys the poor <hi>Solymean</hi> Rout!</l>
+               <l>Unto <hi>Jerusalem</hi> gate he bends his way,</l>
+               <l>Prompted by hope of a Victorious day;</l>
+               <pb n="10" facs="tcp:47489:7"/>
+               <l>Blest with the Influence of some court-like Star,</l>
+               <l>His Message thus does to the Citts declare:</l>
+               <l>Reverend and grave! from Hall to Hall I'm sent,</l>
+               <l>With a Commission boundless in Extent;</l>
+               <l>First with an easy Gentleness I move,</l>
+               <l>Kind as my chastest Widows Maiden Love;</l>
+               <l>If you your Rights and Charters will lay down,</l>
+               <l>And yeild the Priviledges of your Town,</l>
+               <l>Your Ancient Customes to our furer Trust,</l>
+               <l>Courtiers and Lawyers still you know are just.</l>
+               <l>We'l stand by all your Fortunes and your Lives,</l>
+               <l>And keep our usual Kindness to your Wives;</l>
+               <l>Into your Streets the famisht Guards shan't come</l>
+               <l>Nor spawn their Issue in your Infants room;</l>
+               <l>Then here he stops. — But if you awkard be</l>
+               <l>And still presume to keep your Liberty,</l>
+               <l>Know that the Angry Planets soon will frown,</l>
+               <l>And with dire Visitations spoil your Town;</l>
+               <l>Know that the Ancient Rolls of <hi>Adams</hi> Laws</l>
+               <l>Give us our Rights, and weaken all your Cause:</l>
+               <pb n="11" facs="tcp:47489:7"/>
+               <l>'Ore these Records like women will we prate,</l>
+               <l>That splutter Oyster-Law at <hi>Billings-gate.</hi>
+               </l>
+               <l>All will not do; The <hi>Jebusites</hi> will have</l>
+               <l>Their Titles free from that Addition, <hi>Slave;</hi>
+               </l>
+               <l>
+                  <hi>David</hi> 'tis true can be prescrib'd by none,</l>
+               <l>Such is the Power of a Lawful Throne;</l>
+               <l>But yet the peoples Right and Name of King,</l>
+               <l>Did at the first from the same Fountain spring;</l>
+               <l>And proof from Kings Successions is as good</l>
+               <l>As all the musty Rolls before the Flood.</l>
+            </lg>
+            <lg>
+               <l>For depth in Politicks and Statesmans Brain</l>
+               <l>Draw <hi>Hushai</hi> next, attended by a Train</l>
+               <l>Of peevish Votaries, Heart-sick with pride,</l>
+               <l>Too numerous for an Apostate Guide;</l>
+               <l>The odious name of Patriot he does own</l>
+               <l>And Prophecies the downfall of a Throne,</l>
+               <l>Forms in his Aged fancy rob'd of Health</l>
+               <l>The strange Idea<hi>'s</hi> of a Commonwealth,</l>
+               <l>Then gains the Proselyte dissenting <hi>Jews,</hi>
+               </l>
+               <l>And Arguments from <hi>Liberty</hi> does use:</l>
+               <pb n="12" facs="tcp:47489:8"/>
+               <l>So <hi>Treason</hi> veil'd for <hi>Liberty</hi> may go,</l>
+               <l>And <hi>Traytors</hi> heads like <hi>Royallists</hi> may show.</l>
+               <l>All <hi>Judahs</hi> people had united been,</l>
+               <l>Had not he interpos'd and stept between:</l>
+               <l>
+                  <hi>David</hi> in's Subjects love had held his Reign</l>
+               <l>Had not he cut the fastning bond in twain,</l>
+               <l>And Fatal discord sown in <hi>Sanhedrin,</hi>
+               </l>
+               <l>The much lamented hasty <hi>Judahs</hi> Sin.</l>
+               <l>When either faction does produce their right</l>
+               <l>To Succession, they tacitly do slight</l>
+               <l>The present King, and silent reasons bring</l>
+               <l>That he is not, or should not be a King;</l>
+               <l>We need not care, for Heaven nere will own</l>
+               <l>
+                  <hi>Egyptian</hi> Heir on <hi>Israelitish</hi> Throne,</l>
+               <l>Or will it e're auspiciously defend</l>
+               <l>
+                  <hi>Hushai,</hi> that only strives for 's private end.</l>
+               <l>He wheadles <hi>Absalon</hi> with hopes of King,</l>
+               <l>And glistring toys of Crownes does 'fore him fling:</l>
+               <l>Thus do's he sooth to overthrow a Crown,</l>
+               <l>And <hi>Absalons</hi> the Tool to beat it down;</l>
+               <pb n="13" facs="tcp:47489:8"/>
+               <l>And easy <hi>Absalon,</hi> by Gentleness drawn,</l>
+               <l>(Though he has courage parallel'd by none)</l>
+               <l>The loss of Crownes to come he now does dread,</l>
+               <l>Can Heaven place 'em on a Nobler Head?</l>
+               <l>So great a Soul as his 'twill never own</l>
+               <l>Should rule on any thing beneath a Throne,</l>
+               <l>Or ere see <hi>Judah</hi> plagu'd or rob'd of Health,</l>
+               <l>By that unbounded thing a <hi>Commonwealth.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here cou'd I sing the Glorious Heroes praise,</l>
+               <l>And to their Fame Immortal Trophies raise,</l>
+               <l>On Fames chief Pinnacle engrave their name,</l>
+               <l>But while the Worthy lives, do's live his Fame:</l>
+               <l>Whose Swords, &amp; Lives, &amp; Fortunes are by doom</l>
+               <l>Destyn'd to perish in whatere shall come</l>
+               <l>On Glorious <hi>David;</hi> or with terror seize</l>
+               <l>Hells sooty bands, <hi>Egyptian</hi> Enemies;</l>
+               <l>Here <hi>Absalons</hi> Warlike Feats wou'd I rehearse,</l>
+               <l>Cou'd his wide Glories be confin'd to verse,</l>
+               <l>Who ere paints him and paints his Glories all</l>
+               <l>Comes not in sight of the Original:</l>
+               <pb n="14" facs="tcp:47489:9"/>
+               <l>What Brave with greater prowess did appear,</l>
+               <l>When Honour call'd him unto <hi>David's</hi> War?</l>
+               <l>With Angels brow and Heavenly hand did weild</l>
+               <l>His Dauntless Sword, and triumph'd in the field;</l>
+               <l>When Towns demolisht are to ruines thrown,</l>
+               <l>His valour is engrav'd on every Stone:</l>
+               <l>Crown'd with success, when he did home return</l>
+               <l>Think how the flaming piles with Joy did burn,</l>
+               <l>Think how the Multitude to see him land</l>
+               <l>Did with throng'd droves 'orespread <hi>Judean</hi> strand,</l>
+               <l>Then scapt from Sword, &amp; Fire, &amp; hostile harms,</l>
+               <l>Like his fair Mother, flys to <hi>Davids</hi> arms;</l>
+               <l>But now behold him out of Favour thrown,</l>
+               <l>While <hi>David</hi> scarce Vouchsafes his Son to own;</l>
+               <l>Hear the abusive Rabble speak aloud,</l>
+               <l>Yes hear, him all reproached by the Crowd,</l>
+               <l>Abus'd by <hi>Egypts</hi> Slaves both far and near,</l>
+               <l>That <hi>Moors</hi> would dread, and dusky <hi>Indians</hi> fear;</l>
+               <l>His gentle Soul can hold and nothing say,</l>
+               <l>Can bear the name of Rebel, yet obey;</l>
+               <pb n="15" facs="tcp:47489:9"/>
+               <l>Till Heaven with indulgent brow shall smile</l>
+               <l>And stop the overflows of <hi>Egypts Nile.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But are we ruin'd? Is the day of doom</l>
+               <l>For Glorious <hi>Israel</hi> already come?</l>
+               <l>What, is the Ark to <hi>Egypts</hi> borders past,</l>
+               <l>And all our Temples ruinate and waste?</l>
+               <l>Shall way to Churches ever be untrod?</l>
+               <l>Shall <hi>Baal</hi> perk up, and yet Commence a God?</l>
+               <l>No, no; though flames may purge the sluggish Oare,</l>
+               <l>The Gold refin'd Shines brighter then before;</l>
+               <l>Think how the former <hi>Israelites</hi> have been</l>
+               <l>Sadly opprest by an <hi>Egyptian Queen;</hi>
+               </l>
+               <l>Think on our Ancestors deplored case,</l>
+               <l>When the destroying Angel here did pass,</l>
+               <l>Mounted on Cherub's Wing'd with fury rode</l>
+               <l>To slay the Victims of an angry God;</l>
+               <l>Think how their Priests did to the flames retire,</l>
+               <l>And breath their Souls out in <hi>Egyptian</hi> fire,</l>
+               <l>Whose Nobler Souls in midst of Flames cou'd sing</l>
+               <l>And <hi>Martyrs</hi> mount unto <hi>Jerusalems</hi> King,</l>
+               <pb n="16" facs="tcp:47489:10"/>
+               <l>What though to peace through War you thrust your Soul,</l>
+               <l>And tread the Ordeal of Persecution coal;</l>
+               <l>Who'ere on Lifes vast Sea does ply his Oar,</l>
+               <l>Must look for Tempests'ere he comes on Shoar;</l>
+               <l>Then never, never of your Fate take care,</l>
+               <l>But build your Hopes where all your Powers are:</l>
+               <l>Let loose your towring Eagles to the Skie,</l>
+               <l>And e're the Conquest sound a Victory,</l>
+               <l>Though feeble Hell &amp; <hi>Rome</hi> with Rage contend,</l>
+               <l>Auspicious Heaven still remains your Freind.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47489:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
